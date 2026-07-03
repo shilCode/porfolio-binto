@@ -4,7 +4,7 @@
   "private": true,
   "packageManager": "npm@11.6.2",
   "engines": {
-    "node": "20.x"
+    "node": "24.x"
   },
   "overrides": {
     "react": "18.3.1",
