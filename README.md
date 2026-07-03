@@ -1,10 +1,9 @@
-# 💼 Mohan Shil – Portfolio Website
+# 💼 Binto Dn – Portfolio Website
 
 This is the source code for my personal portfolio built with Next.js and Tailwind CSS.
 It highlights my work, skills, and experience.
 Feel free to use it as a template for your own portfolio.
 
-🌐 **Live Site**: [mohanshil.vercel.app](https://mohanshil.vercel.app)
 
 <!--
 
@@ -45,7 +44,7 @@ To run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/mohan-shil/porfolio-mohanshil.git
+git clone https://github.com/Binto-Dn/porfolio-mohanshil.git
 
 # Go into the project directory
 cd portfolio-mohanshil

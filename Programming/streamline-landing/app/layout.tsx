@@ -8,10 +8,10 @@ import { ThemeProvider } from "@/components/theme-provider"
 const jetbrainsMono = JetBrains_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Mohan Shil | QA Engineer | Test Automation & Manual Testing",
-  description: "Portfolio website of Mohan Shil, QA Engineer and Automation Tester",
+  title: "Binto Dn | QA Engineer | Test Automation & Manual Testing",
+  description: "Portfolio website of Binto Dn, QA Engineer and Automation Tester",
   icons: {
-    icon: "/MohanICON.png",
+    icon: "/binto_profile.jpeg",
   },
     generator: 'v0.dev'
 }

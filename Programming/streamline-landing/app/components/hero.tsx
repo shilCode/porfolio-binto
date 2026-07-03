@@ -253,8 +253,8 @@ const Hero = () => {
         }}
       >
         <Image
-          src="/Professional-picture.jpg"
-          alt="Mohan Shil"
+          src="/binto_profile.jpeg"
+          alt="Binto Dn"
           width={144}
           height={144}
           className="w-28 h-28 sm:w-36 sm:h-36 rounded-full object-cover border-4 border-white dark:border-gray-800"
@@ -315,7 +315,7 @@ const Hero = () => {
                 textShadow: theme === "dark" ? "0 0 8px rgba(99, 102, 241, 0.5)" : "0 0 8px rgba(255, 191, 0, 0.5)",
               }}
             >
-              Hi 👋🏽 I'm Mohan Shil
+              Hi 👋🏽 I'm Binto Dn
             </motion.h1>
 
             {/* Job title with typewriter */}

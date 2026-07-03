@@ -88,8 +88,8 @@ export default function Hero() {
           >
             <div className="relative h-[220px] w-[220px] shrink-0 overflow-hidden rounded-full border border-primary/30 bg-primary/10 shadow-2xl md:h-[260px] md:w-[260px]">
               <Image
-                src="/Professional-picture.jpg"
-                alt="Mohan Shil"
+                src="/binto_profile.jpeg"
+                alt="Binto Dn"
                 width={650}
                 height={650}
                 className="h-full w-full object-cover"
@@ -103,7 +103,7 @@ export default function Hero() {
               </p>
 
               <h1 className="mb-1 text-4xl font-semibold leading-tight text-foreground dark:text-white md:text-5xl">
-                Mohan <span className="text-gradient">Shil</span>
+                Binto <span className="text-gradient">Dn</span>
               </h1>
 
               <h2 className="mb-4 text-xl font-semibold text-foreground/90 dark:text-white/90">

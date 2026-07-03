@@ -110,10 +110,10 @@ export default function Contact() {
                 <div>
                   <h4 className="text-lg font-medium mb-1">Email</h4>
                   <a
-                    href="mailto:mohan@example.com"
+                    href="mailto:Binto@chutiya.rocket.magi"
                     className="text-muted-foreground hover:text-accent transition-colors duration-300"
                   >
-                    mohan.shil.007@gmail.com
+                    binto mail dis tahole dibo
                   </a>
                 </div>
               </motion.div>
@@ -147,7 +147,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="text-lg font-medium mb-1">Location</h4>
-                  <p className="text-muted-foreground">Krakow, Poland 🇵🇱</p>
+                  <p className="text-muted-foreground">World</p>
                 </div>
               </motion.div>
             </div>
@@ -157,8 +157,8 @@ export default function Contact() {
               <h4 className="text-lg font-medium mb-4">Connect With Me</h4>
               <div className="flex space-x-4">
                 {[
-                  { icon: <Github className="w-6 h-6" />, href: "https://github.com/mohan-shil", label: "GitHub" },
-                  { icon: <Linkedin className="w-6 h-6" />, href: "https://www.linkedin.com/in/mohan-shil/", label: "LinkedIn" },
+                  { icon: <Github className="w-6 h-6" />, href: "https://github.com/Binto-Dn", label: "GitHub" },
+                  { icon: <Linkedin className="w-6 h-6" />, href: "https://www.linkedin.com/in/Binto-Dn/", label: "LinkedIn" },
                   { icon: <Twitter className="w-6 h-6" />, href: "https://twitter.com", label: "Twitter" },
                 ].map((social, index) => (
                   <motion.a
@@ -234,7 +234,7 @@ export default function Contact() {
                       required
                       autoComplete="name"
                       className="w-full rounded-lg px-4 py-3 bg-accent/5 border border-accent/20 focus:outline-none focus:ring-2 focus:ring-accent focus:border-transparent"
-                      placeholder="Mohan Shil"
+                      placeholder="Binto Dn"
                     />
                   </div>
 
@@ -251,7 +251,7 @@ export default function Contact() {
                       required
                       autoComplete="email"
                       className="w-full rounded-lg px-4 py-3 bg-accent/5 border border-accent/20 focus:outline-none focus:ring-2 focus:ring-accent focus:border-transparent"
-                      placeholder="mohan@example.com"
+                      placeholder="Binto@example.com"
                     />
                   </div>
 
@@ -343,7 +343,7 @@ export default function Contact() {
             animate={{ opacity: isInView ? 1 : 0, y: isInView ? 0 : 20 }}
             transition={{ duration: 0.5, delay: 0.6 }}
           >
-            © {new Date().getFullYear()} Mohan Shil. All rights reserved.
+            © {new Date().getFullYear()} Binto Dn. All rights reserved.
           </motion.p>
         </div>
       </div>

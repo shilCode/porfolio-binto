@@ -61,7 +61,7 @@ export default function Navbar() {
             <div className="flex-shrink-0">
               <Link href="#home" className="flex items-center gap-3" onClick={() => setActiveSection("home")}>
                 <Terminal className="w-6 h-6 text-secondary" />
-                <span className="text-gradient font-semibold text-lg">Mohan Shil</span>
+                <span className="text-gradient font-semibold text-lg">Binto Dn</span>
               </Link>
             </div>
 

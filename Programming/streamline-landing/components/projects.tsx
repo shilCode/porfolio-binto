@@ -10,23 +10,12 @@ import { useScrollAnimation } from "@/hooks/use-scroll-animation"
 
 const projects = [
   {
-    title: "OXOS",
-    description:
-      "Developed a comprehensive test plan for a medical platform using Jira, Ketryx and Github",
-    image: "/Project Images/OXOS.png",
-    tags: ["Jira", "Ketryx", "GitHub Actions", "Test Planning"],
-    github: "https://github.com/oxosmedical",
-    demo: "https://app.oxos.com",
-    drive: "https://drive.google.com/drive/folders/1_pjZBwpVit46w0C4pinB-KMdTI8ZY5hs?usp=sharing",
-  },
-  {
     title: "Mobile Banking App Testing",
     description:
       "Created an Appium-based test suite for a mobile banking application, covering both Android and iOS platforms.",
     image: "/mobile-banking-app.png",
     tags: ["Jira", "WebdriverIO", "JavaScript", "Jenkins"],
     github: "https://github.com",
-    demo: "https://app.oxos.com",
   },
   {
     title: "API Testing Framework",
@@ -239,7 +228,7 @@ export default function Projects() {
           className="mt-12 text-center"
         >
           <motion.a
-            href="https://github.com/mohan-shil"
+            href="https://github.com/Binto-Dn"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center px-6 py-3 rounded-lg border border-accent/20 bg-accent/5 text-accent font-medium hover:bg-accent/10 transition-all"
